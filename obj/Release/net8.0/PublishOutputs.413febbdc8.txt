@@ -1,0 +1,7 @@
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\aspnetcore.exe
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\aspnetcore.dll
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\aspnetcore.deps.json
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\aspnetcore.runtimeconfig.json
+C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\aspnetcore.pdb

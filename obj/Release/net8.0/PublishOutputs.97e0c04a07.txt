@@ -1,0 +1,7 @@
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\aspnetcore.exe
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\appsettings.Development.json
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\appsettings.json
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\aspnetcore.dll
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\aspnetcore.deps.json
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\aspnetcore.runtimeconfig.json
+C:\SourceControl\Azure 204\aspnetcore\bin\Publish\aspnetcore.pdb

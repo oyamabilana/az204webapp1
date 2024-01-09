@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\SourceControl\Azure 204\aspnetcore\obj\Release\net8.0\PubTmp\Out\" />
+</sitemanifest>
